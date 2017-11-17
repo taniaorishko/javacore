@@ -1,6 +1,5 @@
 Tania Orishko
 https://github.com/taniaorishko/javacore 
 
-new line
 
-new line 2
+commit second time
